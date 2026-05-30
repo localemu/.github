@@ -50,6 +50,8 @@ awsemu dynamodb create-table --table-name Users \
 
 ---
 
+Maintained by [TocConsulting](https://tocconsulting.fr), together with the community.
+
 LocalEmu is an independent project and is not affiliated with, endorsed by, or
 sponsored by LocalStack Inc. "LocalStack" is a trademark of its respective owner
 and is used here only to describe the project's origin.
