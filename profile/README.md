@@ -1,14 +1,41 @@
-# LocalEmu
+<p align="center">
+  <img src="https://raw.githubusercontent.com/localemu/.github/main/profile/assets/localemu-logo.png" alt="LocalEmu logo" width="110" />
+</p>
 
-**Run AWS locally. No account. No token. No sign-up.**
+<h1 align="center">LocalEmu</h1>
 
-LocalEmu is a free, open-source AWS cloud emulator. Point the AWS CLI, boto3,
-Terraform, or CDK you already use at `localhost:4566` and build and test against
-AWS APIs on your laptop, with no account, no credentials, and no internet.
+<p align="center"><b>Run AWS locally. No account. No token. No sign-up.</b></p>
 
-It is a community fork of the LocalStack community edition, which was archived
-and put behind a mandatory account in March 2026. LocalEmu continues that
-codebase under the Apache License 2.0, free and tokenless.
+<p align="center">
+Free, open-source AWS cloud emulator. Point the AWS CLI, boto3, Terraform, or CDK<br/>
+you already use at <code>localhost:4566</code> and build against AWS APIs on your laptop.
+</p>
+
+<p align="center">
+  <a href="#quick-start"><img src="https://img.shields.io/badge/🚀_Quick_Start-0894ab?style=for-the-badge&logoColor=white" alt="Quick Start" /></a>
+  <a href="https://github.com/localemu/localemu"><img src="https://img.shields.io/badge/Emulator-181717?style=for-the-badge&logo=github&logoColor=white" alt="Emulator repo" /></a>
+  <a href="https://github.com/localemu/localemu-examples"><img src="https://img.shields.io/badge/Examples-38bdf8?style=for-the-badge&logoColor=white" alt="Examples" /></a>
+</p>
+
+<p align="center">
+  <b><a href="https://github.com/localemu/localemu">LocalEmu Emulator</a></b> |
+  <b><a href="https://github.com/localemu/localemu-examples">Examples & Quickstarts</a></b> |
+  <b><a href="https://tocconsulting.fr">TocConsulting</a></b>
+</p>
+
+<p align="center">
+  <a href="https://pypi.org/project/localemu/"><img src="https://img.shields.io/pypi/v/localemu?color=0894ab" alt="PyPI" /></a>
+  <a href="https://github.com/localemu/localemu/stargazers"><img src="https://img.shields.io/github/stars/localemu/localemu?style=flat&color=38bdf8" alt="GitHub stars" /></a>
+  <a href="https://github.com/localemu/localemu/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-blue" alt="License" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/localemu/.github/main/profile/assets/localemu-in-action.png" alt="LocalEmu in action: your AWS CLI, Terraform, and boto3 talk to localhost:4566, which emulates 132 AWS services on your laptop" width="100%" />
+</p>
+
+LocalEmu is a community fork of the LocalStack community edition, which was
+archived and put behind a mandatory account in March 2026. LocalEmu continues
+that codebase under the Apache License 2.0, free and tokenless.
 
 ---
 
